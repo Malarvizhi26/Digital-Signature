@@ -1,5 +1,6 @@
 # Digital-Signature
-# Aim: To write a C program to implement the signature scheme named digital signature standard (Euclidean Algorithm).
+# Aim:
+To write a C program to implement the signature scheme named digital signature standard (Euclidean Algorithm).
 # Algorithm:
 STEP-1: Alice and Bob are investigating a forgery case of x and y.
 STEP-2: X had document signed by him but he says he did not sign that document digitally.
